@@ -14,7 +14,7 @@ Syntax highlighted code block
 # Header 1  Binyammmmmmmmmmmmm
 ## Header 2 wowoowowo
 ### Header 3
-https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.hindustantimes.com%2Frf%2Fimage_size_960x540%2FHT%2Fp2%2F2018%2F11%2F10%2FPictures%2F_fea09362-e4d7-11e8-a684-a3b63261dee4.JPG&imgrefurl=https%3A%2F%2Fwww.hindustantimes.com%2Fhollywood%2Fwhy-thanos-spared-avengers-life-in-avengers-infinity-war-marvel-exec-gives-the-definitive-answer%2Fstory-Y2ITh3c4JVop2OfxSgacxL.html&docid=ewNa6YMolaE2YM&tbnid=nQYXiPSqSm41SM%3A&vet=10ahUKEwiKt7Do2-HiAhUHc98KHbt8AZMQMwhrKAMwAw..i&w=960&h=540&bih=625&biw=1366&q=avengers%20thanos&ved=0ahUKEwiKt7Do2-HiAhUHc98KHbt8AZMQMwhrKAMwAw&iact=mrc&uact=8
+[Image] (https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.hindustantimes.com%2Frf%2Fimage_size_960x540%2FHT%2Fp2%2F2018%2F11%2F10%2FPictures%2F_fea09362-e4d7-11e8-a684-a3b63261dee4.JPG&imgrefurl=https%3A%2F%2Fwww.hindustantimes.com%2Fhollywood%2Fwhy-thanos-spared-avengers-life-in-avengers-infinity-war-marvel-exec-gives-the-definitive-answer%2Fstory-Y2ITh3c4JVop2OfxSgacxL.html&docid=ewNa6YMolaE2YM&tbnid=nQYXiPSqSm41SM%3A&vet=10ahUKEwiKt7Do2-HiAhUHc98KHbt8AZMQMwhrKAMwAw..i&w=960&h=540&bih=625&biw=1366&q=avengers%20thanos&ved=0ahUKEwiKt7Do2-HiAhUHc98KHbt8AZMQMwhrKAMwAw&iact=mrc&uact=8)
 
 - Bulleted
 - List
@@ -24,7 +24,7 @@ https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.hindustantimes.com%2Frf%2
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image}(src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
